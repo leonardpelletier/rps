@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=rps
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=humanChoice\ computerChoice
+comment2.target=void\ printChoices(int,\ int)
+comment3.params=humanChoice\ computerChoice
+comment3.target=int\ calculateWinner(int,\ int)
+comment4.params=
+comment4.target=boolean\ wantToPlayAgain()
+comment5.params=w\ l\ t
+comment5.target=void\ printStats(int,\ int,\ int)
+numComments=6
